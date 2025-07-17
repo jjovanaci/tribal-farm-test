@@ -1,9 +1,10 @@
 // ==UserScript==
 // @name         Farm‑Test com UI
-// @namespace    http://seu-site-ou-namespace/
+// @namespace    http://seu-namespace/
 // @version      1.0
 // @description  Script de farm com janela de opções embutida
-// @match        https://*.tribalwars.com.br/*
+// @match        https://*.tribalwars.com.br/*game.php*
+// @match        https://*.tribalwars.com.br/*screen=*
 // @grant        none
 // ==/UserScript==
 
